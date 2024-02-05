@@ -1,7 +1,0 @@
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\bin\Debug\file2.cs.exe.config
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\bin\Debug\file2.cs.exe
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\bin\Debug\file2.cs.pdb
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\obj\Debug\file2.cs.csproj.AssemblyReference.cache
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\obj\Debug\file2.cs.csproj.CoreCompileInputs.cache
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\obj\Debug\file2.cs.exe
-C:\Users\harin\OneDrive\Documents\C# projects\file2.cs\file2.cs\obj\Debug\file2.cs.pdb
